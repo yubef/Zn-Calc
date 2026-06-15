@@ -7,7 +7,7 @@ const KETTLE = {
   widthM: 1.6,
   depthM: 3,
   lengthM: 16,
-  liquidZincDensityKgM3: 6570,
+  liquidZincDensityKgM3: 6600,
 };
 
 const surfaceAreaM2 = KETTLE.widthM * KETTLE.lengthM;
